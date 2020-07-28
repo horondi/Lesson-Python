@@ -1,6 +1,6 @@
 
 # Перетворення в оберенне число
-# number = str (input ("Введіть чотирьохзначне число: "))
+# number = str (input ("Введіть чотирьохзначне число: ")) # не потрібно str, input завжди повертає стрінгу
 
 # numb_list = list(number)
 # numb_list.reverse()
